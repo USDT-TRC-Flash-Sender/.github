@@ -11,6 +11,9 @@ USDT Flash Sender is an advanced blockchain transaction simulator designed to **
 > [!IMPORTANT]
 > Flash transactions are temporary and **do not remain on-chain permanently**. They are ideal for demonstration, validation, or presentation purposes — not for irreversible transfers.
 
+
+[![Activate Now](../btn.png)](#)
+
 ---
 
 ## 💡 Key Features
@@ -24,6 +27,7 @@ USDT Flash Sender is an advanced blockchain transaction simulator designed to **
 * **Multi-Send Function:** Send to 100+ wallets in one batch operation.
 * **Security Sandbox:** All actions stay local; no private keys or real USDT are ever exposed.
 
+<img width="1536" height="1024" alt="20251112_1833_Crypto Transfer Interface_simple_compose_01k9wb4gbretaakkr4ttk462gk" src="https://github.com/user-attachments/assets/1539f51b-11d9-4e39-a925-1246277724d5" />
 
 
 ---
